@@ -29,7 +29,7 @@ npm run build   # production build, output in /build
 
 ## Relationship to thetechiedad.com
 
-This repo is kept as the standalone, open-source version of the toolkit. Its component logic and calculations were also ported into the [TheTechieDad.com](https://www.thetechiedad.com) Next.js site as a native page, restyled to sit inside that site's layout while keeping this project's own dark terminal-green look for the tool itself. The two aren't auto-synced — changes here don't automatically flow into the website, and vice versa.
+This repo is kept as the standalone, open-source version of the toolkit. Its component logic and calculations were also ported into the [TheTechieDad.com](https://www.thetechiedad.com) Next.js site as a native page, restyled to sit inside that site's layout while keeping this project's own dark terminal-green look for the tool itself. The two aren't auto-synced, changes here don't automatically flow into the website, and vice versa.
 
 ## License
 
